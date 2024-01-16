@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User ingin mengurutkan product items berurutan nama Z-A (descending)</description>
+   <name>TC-Product-Sort-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7a335f0-b050-4c67-842e-9e1205965e16</testCaseGuid>
+</TestCaseEntity>

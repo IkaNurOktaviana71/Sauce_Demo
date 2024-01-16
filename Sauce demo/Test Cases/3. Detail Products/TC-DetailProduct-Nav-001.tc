@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User ingin kembali ke halaman produk</description>
+   <name>TC-DetailProduct-Nav-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51a24d95-d962-4798-a7ff-a0584f9f8246</testCaseGuid>
+</TestCaseEntity>

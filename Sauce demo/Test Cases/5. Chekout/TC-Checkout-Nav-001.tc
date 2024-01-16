@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;User 
+batal membeli product 
+pada halaman checkout:
+overview&quot;</description>
+   <name>TC-Checkout-Nav-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>242474b6-48fa-41ca-ab87-5dfde516f772</testCaseGuid>
+</TestCaseEntity>

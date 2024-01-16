@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User hanya login menggunakan password yang valid saja tidak menyertakan username</description>
+   <name>TC-Login-Failed-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53a907b3-beee-4260-bd93-37d764435d34</testCaseGuid>
+</TestCaseEntity>

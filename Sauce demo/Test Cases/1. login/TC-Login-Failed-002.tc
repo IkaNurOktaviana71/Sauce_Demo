@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login hanya menggunakan Username</description>
+   <name>TC-Login-Failed-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb9677d2-ca04-429e-8dc0-a43e2c3eb0f4</testCaseGuid>
+</TestCaseEntity>

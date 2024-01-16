@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Detail Product/button_Add to cart",
+      "brokenLocator": "//button[@id\u003d\u0027add-to-cart-sauce-labs-backpack\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027inventory_item_container\u0027]/div/div/div[2]/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Detail Product/button_Add to cart_idRelative.png"
+    }
+  ]
+}

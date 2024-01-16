@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case ketika user ingin 
+menambahkan product ke
+ keranjang</description>
+   <name>TC-DetailProduct-AddCart-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>858a6bde-8157-491d-815b-8d0b0e2e50da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c402fe5a-7fdf-4896-9fc5-1008d12f6d23</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d7eb9c70-36f4-4e54-8ff2-c293d1a5aa26</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b0deb561-0d5c-407a-9117-2a9c7432710d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27e79e45-4c11-4547-be86-c6cd5b4bfe3a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sauce Labs Backpack'</defaultValue>
+      <description></description>
+      <id>c402fe5a-7fdf-4896-9fc5-1008d12f6d23</id>
+      <masked>false</masked>
+      <name>produkName</name>
+   </variable>
+   <variable>
+      <defaultValue>'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.'</defaultValue>
+      <description></description>
+      <id>d7eb9c70-36f4-4e54-8ff2-c293d1a5aa26</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'$29.99'</defaultValue>
+      <description></description>
+      <id>b0deb561-0d5c-407a-9117-2a9c7432710d</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>27e79e45-4c11-4547-be86-c6cd5b4bfe3a</id>
+      <masked>false</masked>
+      <name>badge</name>
+   </variable>
+</TestCaseEntity>

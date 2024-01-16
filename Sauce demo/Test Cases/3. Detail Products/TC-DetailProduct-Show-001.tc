@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User ingin menampilkan Detail Products</description>
+   <name>TC-DetailProduct-Show-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26e5fc72-c235-442a-8612-878bdd655f19</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25f116f1-11a8-47ca-af2b-554cb3b9e720</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa05280e-ac25-4cc8-aca1-df08e6812c9b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24eb5490-25de-4d63-96ec-26bb9a80c3db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'$29.99'</defaultValue>
+      <description></description>
+      <id>25f116f1-11a8-47ca-af2b-554cb3b9e720</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+   <variable>
+      <defaultValue>'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.'</defaultValue>
+      <description></description>
+      <id>fa05280e-ac25-4cc8-aca1-df08e6812c9b</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sauce Labs Backpack'</defaultValue>
+      <description></description>
+      <id>24eb5490-25de-4d63-96ec-26bb9a80c3db</id>
+      <masked>false</masked>
+      <name>produkName</name>
+   </variable>
+</TestCaseEntity>

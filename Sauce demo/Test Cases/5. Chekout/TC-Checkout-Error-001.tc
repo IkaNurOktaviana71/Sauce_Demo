@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user melakukan chekout di halaman Your Cart yang sudah ada isi atau sudah ada produk yang di masukan kedalaman keranjang namun tidak memasukan first name di halaman Chekout : Your Information</description>
+   <name>TC-Checkout-Error-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4987563b-71f1-4099-af88-2acfc745d764</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User ingin menambahkan 1 product ke dalam keranjang</description>
+   <name>TC-Product-AddCart-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8668f297-df0c-419a-bf1a-0924cf2bb495</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d50014fb-4042-42e9-8ee8-45dec69f46ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c55f693-eb61-473c-855b-ded3e8dd6515</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1e74897-c342-4d19-8f8a-f93cb517b3d4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sauce Labs Backpack'</defaultValue>
+      <description></description>
+      <id>d50014fb-4042-42e9-8ee8-45dec69f46ce</id>
+      <masked>false</masked>
+      <name>produkName</name>
+   </variable>
+   <variable>
+      <defaultValue>'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.'</defaultValue>
+      <description></description>
+      <id>4c55f693-eb61-473c-855b-ded3e8dd6515</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'$29.99'</defaultValue>
+      <description></description>
+      <id>d1e74897-c342-4d19-8f8a-f93cb517b3d4</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+</TestCaseEntity>

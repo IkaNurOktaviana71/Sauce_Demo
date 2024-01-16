@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User hanya mengosongkan zip/Postal Code.</description>
+   <name>TC-Checkout-Error-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>634479d1-ef15-48a4-aec9-bca7baf35f3a</testCaseGuid>
+</TestCaseEntity>

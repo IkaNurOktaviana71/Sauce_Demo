@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user cannot continue to the overview page when the user does not fill out the last name information form</description>
+   <name>TC-Checkout-Error-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82720359-ee5e-4553-bc2c-a0ed62ead7eb</testCaseGuid>
+</TestCaseEntity>
